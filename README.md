@@ -1,5 +1,17 @@
-- 👋 Hi, I’m Alex
-- this README is currently a placeholder only. more information will follow.
+🔐 Microsoft Cloud Security Expert @IFBlueprint
+
+👸 Father to a wonderful daughter
+
+👫 Husband to a brilliant wife
+
+📚 Lifelong learner
+
+🥘 Avid vegan hobby cook
+
+🧘‍♂️ Yogi
+
+🤓 Nerd
+
 
 <!---
 considerITman/considerITman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
